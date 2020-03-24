@@ -1,2 +1,2 @@
 # GeometryLib
-Gemoteric figures library
+Geometric figures library
